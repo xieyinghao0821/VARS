@@ -24,7 +24,7 @@ public class Util {
     }
 
     /**
-     * 判断网络类型 wifi  3G
+     * 判断网络类型是否为wifi
      *
      * @param context
      * @return
